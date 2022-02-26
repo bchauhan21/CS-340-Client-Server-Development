@@ -6,6 +6,6 @@ How do you approach a problem as a computer scientist? Consider how you approach
 
   As a computer scientist, I would look at the problem by looking at its output, and the output that will help me to reach there. I would build the lower level tools first and build the code using those low level functions. This is being my first project using the database by creating CRUD module.
   
-  What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
   
-    Computer scientists develops the software that can be used by anyone. by making this software, they make everyones job easy. Without computer scientist, it would be tough to do simple things like adding up the number of employees for various companies, number of patients in the hospital, or there will be no existence of the video games or animated films.
+  Computer scientists develops the software that can be used by anyone. by making this software, they make everyones job easy. Without computer scientist, it would be tough to do simple things like adding up the number of employees for various companies, number of patients in the hospital, or there will be no existence of the video games or animated films.
